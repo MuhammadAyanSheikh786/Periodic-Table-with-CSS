@@ -10,12 +10,24 @@ td {
 
     
 }
+#head { 
+   text-align: center;
+   color: #ab00a0;
+  
+}
+#head:hover { 
+   text-align: center;
+   color: #e680df;
+   border: 2px solid rgb(228, 13, 31);
+ 
+}
 
 td:hover {
     box-shadow: 2px 2px rgb(112, 109, 109);
     zoom: 150%;
     border: 2px solid aqua;
     padding: 20px;
+    border-radius: 50px;
     
 }
 
