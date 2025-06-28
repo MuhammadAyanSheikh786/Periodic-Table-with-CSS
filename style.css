@@ -1,0 +1,53 @@
+table {
+  margin: 100px auto;
+
+}
+td { 
+    border: 2px solid rgb(19, 18, 18);
+    max-width: 60px;
+    max-height: 60px;
+    color: white;
+
+    
+}
+
+td:hover {
+    box-shadow: 2px 2px rgb(112, 109, 109);
+    zoom: 150%;
+    border: 2px solid aqua;
+    padding: 20px;
+    
+}
+
+body {
+    background-color: black;
+}
+#b {
+  background-color: #244d57;
+}
+#pur {
+  background-color: #433c65;
+}
+#grey {
+  background-color: #46474c;
+}
+#green {
+  background-color: green;
+}
+#brown {
+  background-color: rgb(132, 68, 8);
+}
+#darkm {
+  background-color: #540029;
+}
+#lm {
+  background-color: #ab00a0;
+}
+
+p {
+   text-align: center;
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
